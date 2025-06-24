@@ -5,44 +5,43 @@
 #define MAX_PASSAGEIROS 200
 
 typedef struct{
-    char origem[50];
-    char destino[50];
-    char data[20];
-    char horarioPartida[10];
-    int AssentosDisponiveis;
+    char origin[50]; //origem
+    char destination[50]; //destino
+    char date[20]; //data
+    char departureTime[10]; //horario partida
+    int seatsAvaliable; //assentos disponiveis
 }Voos;
 
 typedef struct{
-    char nome;
-    char numerDocumento;
+    char name;
+    char numberDocument;
 }Passageiros;
 
-void consultarVoos(Voos voos[]){
-    FILE *arquivo = fopen("lugares.txt", "r");
-    if (arquivo == NULL){
+void consultVoos(Voos voos[]){
+    FILE *file = fopen("lugares.txt", "r");
+    if (file == NULL){
         printf("erro ao ler arquivo");
     }
 
     getchar();
     printf("Digite a origem do voo: ");
-    fgets(voos->origem, sizeof(voos->origem), stdin);
-    voos->origem[strcspn(voos->origem, "\n")] = '\0';
+    fgets(voos->origin, sizeof(voos->origin), stdin);
+    voos->origin[strcspn(voos->origin, "\n")] = '\0';
 
     getchar();
     printf("Digite o destino do voo: ");
-    fgets(voos->destino, sizeof(voos->destino), stdin);
-    voos->destino[strcspn(voos->destino, "\n")] = '\0';
+    fgets(voos->destination, sizeof(voos->destination), stdin);
+    voos->destination[strcspn(voos->destination, "\n")] = '\0';
 
     printf("Digite a data desejada, exemplo: 0000/00/00\n:");
-    fgets(voos->data, sizeof(voos->data), stdin);
-    fgets(voos->destino, sizeof(voos->destino), stdin);
+    fgets(voos->date, sizeof(voos->date), stdin);
+    fgets(voos->destination, sizeof(voos->destination), stdin);
 
-    
 
 
 }
 void menu(){
-int opcao;
+int option;
 
 Voos voos[MAX_LINHA];
 
@@ -58,12 +57,12 @@ Voos voos[MAX_LINHA];
         printf("5- Reservar passagens\n");
         printf("6- Sair\n");
 
-        scanf("%d", &opcao);
+        scanf("%d", &option);
 
-        switch (opcao){
+        switch (option){
         case 1:
             printf("[Voos disponiveis]\n");
-            consultarVoos(voos);
+            consultVoos(voos);
 
             break;
         case 2:
@@ -85,7 +84,7 @@ Voos voos[MAX_LINHA];
             break;
         }
 
-    } while (opcao != 4);
+    } while (option != 4);
 }
 
 int main()
