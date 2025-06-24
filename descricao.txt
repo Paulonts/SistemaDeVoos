@@ -1,0 +1,43 @@
+Sistema de Reservas de Passagens Aéreas
+
+Descrição: Desenvolva um sistema de reservas de passagens aéreas em linguagem de
+programação C que permita aos usuários pesquisarem voos disponíveis, fazer reservas e
+gerenciar suas reservas existentes. O sistema deve ser capaz de armazenar informações
+sobre voos, passageiros e reservas utilizando structs e alocação dinâmica de memória
+(malloc). Cada voo deve ser representado por uma struct contendo campos como
+origem, destino, data e horário de partida, quantidade de assentos disponíveis, entre
+outros. Cada passageiro deve ser representado por uma struct contendo informações
+como nome, número de documento, entre outros.
+Funcionalidades:
+1. Consulta de Voos Disponíveis: Permitir que os usuários consultem voos
+disponíveis informando a origem, destino e data desejada. O sistema deve exibir
+uma lista de voos que correspondam aos critérios de busca.
+2. Reserva de Passagem: Possibilitar que os usuários façam reservas de passagens
+para um voo específico, informando seus dados pessoais, como nome e número
+de documento.
+3. Cancelamento de Reserva: Implementar funcionalidade que permita aos
+usuários cancelar uma reserva existente, liberando o assento reservado para
+outros passageiros.
+4. Consulta de Reservas: Permitir que os usuários consultem suas reservas atuais,
+exibindo detalhes como número de voo, data, origem, destino, entre outros.
+5. Menu Interativo: Criar um menu interativo que permita aos usuários acessar
+todas as funcionalidades do sistema de forma intuitiva.
+6. Validação de Entrada: Garantir que as entradas do usuário sejam validadas
+para evitar erros de execução do programa.
+Requisitos Técnicos:
+• Utilização de structs para representar voos, passageiros e reservas.
+• Utilizar alocação dinâmica de memória (malloc) para armazenar os dados para
+pelo menos um dos processos (Inclusão, Alteração, etc).
+• Utilização de estruturas de controle (if, else, while, for) para implementar a
+lógica do programa.
+• Documentação clara e comentários adequados no código fonte.
+Observações:
+• O projeto deve ser desenvolvido exclusivamente em linguagem de programação
+C.
+• A interface do programa pode ser simples, utilizando principalmente a linha de
+comando para interação com o usuário.
+• Priorize a eficiência e robustez do código, garantindo que o sistema seja capaz
+de lidar com diferentes cenários de uso sem falhas.
+Entrega: O projeto deve ser entregue em formato de código fonte, acompanhado de um
+breve relatório descrevendo a estrutura geral do programa, principais desafios
+enfrentados durante o desenvolvimento e possíveis melhorias futuras.

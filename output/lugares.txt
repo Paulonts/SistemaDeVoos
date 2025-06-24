@@ -1,0 +1,150 @@
+Palmas → Maceió | 2025-06-08 | 17:50 | Gol
+Porto Alegre → Teresina | 2025-06-09 | 13:15 | LATAM
+Palmas → Recife | 2025-06-15 | 13:15 | Azul
+Curitiba → Fortaleza | 2025-06-04 | 17:50 | Azul
+Teresina → Aracaju | 2025-06-11 | 06:00 | LATAM
+Campo Grande → Curitiba | 2025-06-12 | 10:45 | Azul
+Belém → Belo Horizonte | 2025-06-13 | 22:25 | Azul
+Florianópolis → Vitória | 2025-06-09 | 20:10 | LATAM
+Goiânia → Rio de Janeiro | 2025-06-01 | 17:50 | Azul
+Campo Grande → Goiânia | 2025-06-04 | 15:30 | Azul
+Maceió → Teresina | 2025-06-09 | 10:45 | Gol
+Maceió → São Paulo | 2025-06-13 | 10:45 | Gol
+João Pessoa → Rio de Janeiro | 2025-06-14 | 17:50 | Azul
+Macapá → Belém | 2025-06-15 | 13:15 | Azul
+Aracaju → Recife | 2025-06-13 | 06:00 | Gol
+Boa Vista → Manaus | 2025-06-09 | 20:10 | LATAM
+Aracaju → Goiânia | 2025-06-07 | 17:50 | Azul
+São Paulo → Campo Grande | 2025-06-12 | 15:30 | LATAM
+Florianópolis → Maceió | 2025-06-06 | 10:45 | LATAM
+Porto Alegre → São Paulo | 2025-06-09 | 10:45 | Gol
+Palmas → Florianópolis | 2025-06-07 | 08:30 | Gol
+Campo Grande → Recife | 2025-06-09 | 10:45 | Azul
+João Pessoa → Brasília | 2025-06-12 | 10:45 | Azul
+Rio de Janeiro → Brasília | 2025-06-04 | 22:25 | Gol
+Maceió → João Pessoa | 2025-06-04 | 22:25 | Azul
+Belém → Palmas | 2025-06-13 | 20:10 | Azul
+João Pessoa → Vitória | 2025-06-09 | 17:50 | LATAM
+Manaus → Vitória | 2025-06-05 | 20:10 | Azul
+Palmas → Campo Grande | 2025-06-01 | 08:30 | Azul
+Boa Vista → Salvador | 2025-06-01 | 13:15 | Azul
+Rio de Janeiro → Belo Horizonte | 2025-06-05 | 08:30 | Gol
+Goiânia → Aracaju | 2025-06-15 | 13:15 | Gol
+São Paulo → Brasília | 2025-06-09 | 17:50 | Azul
+Palmas → Vitória | 2025-06-13 | 22:25 | Gol
+Curitiba → Boa Vista | 2025-06-12 | 08:30 | LATAM
+João Pessoa → Florianópolis | 2025-06-01 | 10:45 | LATAM
+Vitória → Belém | 2025-06-01 | 06:00 | Gol
+Belo Horizonte → Campo Grande | 2025-06-02 | 10:45 | LATAM
+Recife → Goiânia | 2025-06-01 | 10:45 | LATAM
+Fortaleza → Rio de Janeiro | 2025-06-05 | 20:10 | LATAM
+Rio de Janeiro → Recife | 2025-06-13 | 13:15 | Gol
+São Luís → Maceió | 2025-06-11 | 10:45 | Azul
+Goiânia → Manaus | 2025-06-13 | 15:30 | LATAM
+Brasília → Rio de Janeiro | 2025-06-08 | 15:30 | Gol
+Boa Vista → João Pessoa | 2025-06-13 | 22:25 | Gol
+Rio de Janeiro → João Pessoa | 2025-06-11 | 10:45 | Gol
+Maceió → Recife | 2025-06-05 | 22:25 | Azul
+Campo Grande → Maceió | 2025-06-04 | 06:00 | LATAM
+Teresina → São Paulo | 2025-06-01 | 22:25 | Gol
+São Paulo → Rio de Janeiro | 2025-06-03 | 15:30 | Azul
+Maceió → Fortaleza | 2025-06-09 | 10:45 | Azul
+São Luís → Recife | 2025-06-15 | 10:45 | Gol
+São Paulo → Natal | 2025-06-10 | 08:30 | LATAM
+Belém → Fortaleza | 2025-06-10 | 10:45 | Azul
+Curitiba → João Pessoa | 2025-06-12 | 20:10 | LATAM
+Aracaju → Curitiba | 2025-06-01 | 15:30 | Azul
+Rio de Janeiro → Palmas | 2025-06-09 | 10:45 | Gol
+Brasília → Campo Grande | 2025-06-02 | 13:15 | Azul
+Manaus → Campo Grande | 2025-06-09 | 20:10 | Azul
+Belo Horizonte → São Paulo | 2025-06-12 | 17:50 | Azul
+Vitória → Aracaju | 2025-06-13 | 08:30 | Gol
+Florianópolis → São Luís | 2025-06-10 | 17:50 | Azul
+Belém → Palmas | 2025-06-03 | 08:30 | LATAM
+Boa Vista → Brasília | 2025-06-01 | 10:45 | Gol
+Rio de Janeiro → Brasília | 2025-06-06 | 22:25 | LATAM
+Goiânia → São Paulo | 2025-06-10 | 22:25 | Gol
+Salvador → Porto Alegre | 2025-06-15 | 08:30 | LATAM
+Florianópolis → Natal | 2025-06-05 | 17:50 | LATAM
+Macapá → Natal | 2025-06-13 | 20:10 | Gol
+Florianópolis → Maceió | 2025-06-01 | 22:25 | Gol
+São Paulo → Goiânia | 2025-06-02 | 15:30 | Azul
+Curitiba → Vitória | 2025-06-12 | 20:10 | Azul
+Florianópolis → João Pessoa | 2025-06-15 | 17:50 | Gol
+Belém → Teresina | 2025-06-06 | 17:50 | Azul
+Manaus → Porto Alegre | 2025-06-05 | 10:45 | Gol
+Boa Vista → Aracaju | 2025-06-10 | 20:10 | LATAM
+Florianópolis → Palmas | 2025-06-15 | 13:15 | LATAM
+Boa Vista → Maceió | 2025-06-08 | 17:50 | Gol
+Maceió → Florianópolis | 2025-06-06 | 06:00 | Azul
+Macapá → Maceió | 2025-06-03 | 22:25 | Azul
+Macapá → Aracaju | 2025-06-13 | 08:30 | Gol
+Brasília → Rio de Janeiro | 2025-06-05 | 06:00 | Azul
+Florianópolis → São Paulo | 2025-06-13 | 20:10 | Azul
+João Pessoa → Vitória | 2025-06-13 | 10:45 | LATAM
+Belo Horizonte → Teresina | 2025-06-01 | 20:10 | Gol
+Campo Grande → Salvador | 2025-06-03 | 10:45 | Gol
+Manaus → Belo Horizonte | 2025-06-08 | 20:10 | Azul
+Porto Alegre → Fortaleza | 2025-06-07 | 20:10 | LATAM
+Macapá → Porto Alegre | 2025-06-10 | 10:45 | LATAM
+Macapá → Rio de Janeiro | 2025-06-13 | 15:30 | Azul
+Boa Vista → Campo Grande | 2025-06-09 | 10:45 | Gol
+São Luís → Campo Grande | 2025-06-07 | 06:00 | Azul
+Goiânia → Brasília | 2025-06-05 | 08:30 | Azul
+Porto Alegre → Aracaju | 2025-06-08 | 22:25 | Azul
+Florianópolis → Belém | 2025-06-02 | 15:30 | Azul
+Maceió → Natal | 2025-06-10 | 17:50 | Gol
+Palmas → Maceió | 2025-06-10 | 10:45 | Gol
+Natal → Palmas | 2025-06-13 | 13:15 | LATAM
+Campo Grande → Macapá | 2025-06-10 | 13:15 | LATAM
+São Paulo → Fortaleza | 2025-06-02 | 20:10 | Azul
+Boa Vista → Manaus | 2025-06-11 | 17:50 | Gol
+Belém → Macapá | 2025-06-11 | 15:30 | Gol
+Curitiba → Boa Vista | 2025-06-14 | 17:50 | LATAM
+Curitiba → Fortaleza | 2025-06-07 | 20:10 | LATAM
+Brasília → Campo Grande | 2025-06-02 | 17:50 | LATAM
+Fortaleza → Vitória | 2025-06-04 | 20:10 | Azul
+Florianópolis → Belo Horizonte | 2025-06-11 | 20:10 | Gol
+Goiânia → João Pessoa | 2025-06-13 | 13:15 | LATAM
+Fortaleza → Palmas | 2025-06-15 | 08:30 | Azul
+São Luís → Maceió | 2025-06-03 | 22:25 | Gol
+Curitiba → Natal | 2025-06-13 | 13:15 | Azul
+Fortaleza → João Pessoa | 2025-06-05 | 10:45 | LATAM
+Rio de Janeiro → Salvador | 2025-06-06 | 20:10 | LATAM
+Goiânia → Florianópolis | 2025-06-10 | 22:25 | Gol
+Natal → Curitiba | 2025-06-05 | 10:45 | Azul
+Boa Vista → Fortaleza | 2025-06-05 | 17:50 | Gol
+Teresina → João Pessoa | 2025-06-06 | 20:10 | Gol
+Belém → Boa Vista | 2025-06-02 | 13:15 | Azul
+Palmas → Recife | 2025-06-05 | 20:10 | LATAM
+João Pessoa → Macapá | 2025-06-09 | 20:10 | Azul
+Palmas → Natal | 2025-06-09 | 13:15 | Azul
+Manaus → Florianópolis | 2025-06-08 | 10:45 | LATAM
+Brasília → Macapá | 2025-06-09 | 08:30 | LATAM
+Porto Alegre → Teresina | 2025-06-09 | 13:15 | LATAM
+Aracaju → São Paulo | 2025-06-12 | 10:45 | Azul
+Goiânia → Fortaleza | 2025-06-03 | 08:30 | Gol
+Florianópolis → Campo Grande | 2025-06-05 | 08:30 | Azul
+Recife → Belo Horizonte | 2025-06-09 | 08:30 | LATAM
+Manaus → Boa Vista | 2025-06-15 | 22:25 | LATAM
+Recife → Aracaju | 2025-06-10 | 08:30 | Azul
+João Pessoa → Recife | 2025-06-11 | 15:30 | LATAM
+Macapá → Goiânia | 2025-06-12 | 13:15 | LATAM
+São Luís → Fortaleza | 2025-06-15 | 13:15 | Gol
+Belém → Curitiba | 2025-06-02 | 10:45 | Azul
+Recife → Manaus | 2025-06-11 | 17:50 | LATAM
+Porto Alegre → Campo Grande | 2025-06-14 | 06:00 | Azul
+Belém → Goiânia | 2025-06-06 | 13:15 | LATAM
+Goiânia → Manaus | 2025-06-15 | 13:15 | Azul
+Aracaju → Macapá | 2025-06-14 | 08:30 | LATAM
+Manaus → Goiânia | 2025-06-15 | 13:15 | Gol
+Maceió → Campo Grande | 2025-06-15 | 08:30 | Gol
+Rio de Janeiro → Natal | 2025-06-04 | 22:25 | LATAM
+João Pessoa → Vitória | 2025-06-10 | 22:25 | Azul
+Fortaleza → Curitiba | 2025-06-07 | 10:45 | LATAM
+Rio de Janeiro → Manaus | 2025-06-14 | 13:15 | Azul
+Aracaju → Maceió | 2025-06-11 | 20:10 | Azul
+Fortaleza → Rio de Janeiro | 2025-06-06 | 08:30 | Azul
+Porto Alegre → Belo Horizonte | 2025-06-12 | 22:25 | Azul
+Natal → Vitória | 2025-06-10 | 13:15 | Gol
+São Luís → Porto Alegre | 2025-06-11 | 13:15 | Gol
